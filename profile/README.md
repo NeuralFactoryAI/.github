@@ -64,6 +64,6 @@ The AI integrates seamlessly with existing industrial automation infrastructure 
 
 🌐 https://www.neuralfactoryai.com
 
-📧 contact@neuralfactoryai.com
+📧 ekta.singh@neuralfactoryai.com
 
 📍 Noida, Uttar Pradesh, India
